@@ -21,4 +21,4 @@ A machine learning model that checks whether an SMS or message looks like a scam
 - This is a screening aid, not a guarantee. Never share OTPs or PINs, even if the tool says a message is safe.
 
 ## Demo
-(link to be added)
+(live demo)
